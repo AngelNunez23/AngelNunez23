@@ -104,5 +104,5 @@
 <a href="https://awziondigital.com.br">🌐 Website</a> •
 <a href="https://wa.me/5511923210055">📲 WhatsApp</a> •
 <a href="https://www.instagram.com/awziondigital">📸 Instagram</a> •
-<a href="https://awziondigital.com.br/seguros">🧮 Multicálculo</a>
+<a href="https://awziondigital.com.br/seguros/venda.html">🧮 Multicálculo</a>
 </p>
