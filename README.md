@@ -11,13 +11,13 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de Ciencia de la Computación  
-- 💼 CEO de AWZION Digital  
-- 📊 Enfocado en Data Science, BI y análisis de datos  
-- ⚙️ Desarrollo sistemas completos (Backend + Frontend)  
-- 🤖 Interesado en Inteligencia Artificial y automatización  
-- 🔥 Ayudo negocios a vender más con tecnología  
-
+💼 Fundador da AWZION Digital  
+💻 Desenvolvimento de sistemas e soluções digitais (PHP, Java, Python, JavaScript)  
+⚙️ Automação e tecnologia para crescimento de negócios  
+🗄️ Banco de dados e estruturação de sistemas  
+📊 Data & BI em evolução  
+🤖 Inteligência Artificial em aprendizado  
+🚀 Transformo ideias em sistemas que geram resultados  
 ---
 
 ## 💻 Desarrollo de Sistemas
