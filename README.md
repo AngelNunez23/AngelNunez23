@@ -11,13 +11,14 @@
 
 ## 🚀 Sobre mí
 
-💼 Fundador da AWZION Digital  
-💻 Desenvolvimento de sistemas e soluções digitais (PHP, Java, Python, JavaScript)  
-⚙️ Automação e tecnologia para crescimento de negócios  
-🗄️ Banco de dados e estruturação de sistemas  
-📊 Data & BI em evolução  
-🤖 Inteligência Artificial em aprendizado  
-🚀 Transformo ideias em sistemas que geram resultados  
+💼 Fundador de AWZION Digital  
+💻 Desarrollo de sistemas y soluciones digitales (PHP, Java, Python, JavaScript)  
+⚙️ Automatización y tecnología para el crecimiento de negocios  
+🗄️ Bases de datos y estructuración de sistemas  
+📊 Data & BI en evolución  
+🤖 Inteligencia Artificial en aprendizaje  
+🚀 Transformo ideas en sistemas que generan resultados  
+
 ---
 
 ## 💻 Desarrollo de Sistemas
@@ -30,7 +31,7 @@
 
 ---
 
-## 🗄️ Banco de Datos
+## 🗄️ Bases de Datos
 
 - Diseño de bases de datos (MySQL, PostgreSQL)  
 - Creación de tablas, relaciones y normalización  
@@ -85,10 +86,11 @@
 
 ---
 
-## 📞 Contato
+## 📞 Contacto
 
 <p align="center">
-<a href="https://wa.me/5511923210055">WhatsApp</a> •
-<a href="https://www.instagram.com/awziondigital">Instagram</a> •
-<a href="https://awziondigital.com.br">Website</a>
+<a href="https://awziondigital.com.br">🌐 Website</a> •
+<a href="https://wa.me/5511923210055">📲 WhatsApp</a> •
+<a href="https://www.instagram.com/awziondigital">📸 Instagram</a> •
+<a href="https://awziondigital.com.br/seguros">🧮 Multicálculo</a>
 </p>
