@@ -12,7 +12,7 @@
 ## 🚀 Sobre mí
 
 🎓 Estudiante de Ciencia de la Computación  
-🌱 Formación técnica en Agronomía y Agropecuaria (República Dominicana, 2 años)  
+🌱 Formación técnica en Agronomía y Agropecuaria (República Dominicana, 3 años)  
 🥼 Estudios en Tecnología de Alimentos (2 años)  
 
 💼 Fundador de AWZION Digital  
