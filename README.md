@@ -1,16 +1,94 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Angel Núñez 👋</h1>
 
-<!--
-**AngelNunez23/AngelNunez23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Fundador de AWZION Digital  
+💻 Desarrollo de sistemas, sitios web y soluciones digitales  
+📊 Data Science | BI | Automatización  
+🌎 Brasil 🇧🇷 & República Dominicana 🇩🇴  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 🎓 Estudiante de Ciencia de la Computación  
+- 💼 CEO de AWZION Digital  
+- 📊 Enfocado en Data Science, BI y análisis de datos  
+- ⚙️ Desarrollo sistemas completos (Backend + Frontend)  
+- 🤖 Interesado en Inteligencia Artificial y automatización  
+- 🔥 Ayudo negocios a vender más con tecnología  
+
+---
+
+## 💻 Desarrollo de Sistemas
+
+✔ Sistemas en **PHP, Java, JavaScript y Python**  
+✔ APIs REST (Spring Boot / Node.js / Flask)  
+✔ Sistemas administrativos (CRUD completo)  
+✔ Automatización de procesos y WhatsApp  
+✔ Integración con bases de datos y dashboards  
+
+---
+
+## 🗄️ Banco de Datos
+
+- Diseño de bases de datos (MySQL, PostgreSQL)  
+- Creación de tablas, relaciones y normalización  
+- Consultas SQL (SELECT, JOIN, agregaciones)  
+- Sistemas con almacenamiento estructurado  
+- Optimización y organización de datos  
+
+---
+
+## 🤖 Inteligencia Artificial (En aprendizaje)
+
+- 📊 Análisis de datos con Python  
+- 🧠 Machine Learning (en progreso)  
+- 📈 Modelos predictivos básicos  
+- 🔍 Exploración de datos (EDA)  
+- 🚀 Aplicación de IA en negocios  
+
+---
+
+## 🧠 Tecnologías
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AngelNunez23&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelNunez23&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Actividad
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelNunez23&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🚀 Proyectos Destacados
+
+- 🧮 Sistema Multicálculo de Seguros  
+- 🏢 AWZION Business System  
+- 🛒 Sistema E-commerce (Base de Datos + Backend)  
+- ⚾ Sitio Black Panther Baseball  
+- 📊 Proyectos de Data & BI  
+
+---
+
+## 📞 Contato
+
+<p align="center">
+<a href="https://wa.me/5511923210055">WhatsApp</a> •
+<a href="https://www.instagram.com/awziondigital">Instagram</a> •
+<a href="https://awziondigital.com.br">Website</a>
+</p>
